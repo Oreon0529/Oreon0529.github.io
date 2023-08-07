@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Junhyeok's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Junhyeok Oh"
 description              : "An amazing website."
 url                      : "https://Oreon0529.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
